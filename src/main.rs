@@ -1,32 +1,21 @@
-
-fn main() {
-    let it = Iter{
-    current: 0,
-        max: 10,
-    };
-    for num in it{
-        println!("{}", num)
-    }
+enum Emotion{
+    Anger,
+    Happy,
 }
 
-struct Iter{
-    current: usize,
-    max: usize,
+trait Emotional{
+    fn get_happy(&mut self) -> String;
+    fn get_anger(&mut self) -> String;
+    fn tell_state(&self) -> String;
 }
 
-impl Iterator for Iter{
-    type Item = usize;
-
-    fn next(&mut self) -> Option<usize>{
-        self.current += 1;
-        if self.current -1 < self.max{
-            Some(self.current -1)
-        } else {
-            None
-        }
-    }
+struct HappyPerson{
+    name: String,
+    state: Emotion,
 }
 
-// fn print(s: Box<[u8]>){
-//     println!("{:?}", s);
-// }
+
+
+fn main(){
+
+}

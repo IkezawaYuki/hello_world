@@ -12,7 +12,10 @@
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d7c81f2-e683-4ac6-9ee2-427026279004" name="Default Changelist" comment="" />
+    <list default="true" id="1d7c81f2-e683-4ac6-9ee2-427026279004" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +46,9 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
     <configuration name="Run" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
@@ -86,7 +91,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600677122112</updated>
-      <workItem from="1600677125531" duration="4288000" />
+      <workItem from="1600677125531" duration="6824000" />
     </task>
     <servers />
   </component>
@@ -94,22 +99,26 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1600688648033">
+    <state width="1400" height="245" key="GridCell.Tab.0.bottom" timestamp="1600700281322">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1600688648033" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1600688648029">
+    <state width="1400" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1600700281322" />
+    <state width="1400" height="245" key="GridCell.Tab.0.center" timestamp="1600700281319">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1600688648029" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1600688648028">
+    <state width="1400" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1600700281319" />
+    <state width="1400" height="245" key="GridCell.Tab.0.left" timestamp="1600700281318">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1600688648028" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1600688648031">
+    <state width="1400" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1600700281318" />
+    <state width="1400" height="245" key="GridCell.Tab.0.right" timestamp="1600700281321">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1600688648031" />
+    <state width="1400" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1600700281321" />
+    <state x="270" y="89" key="SettingsEditor" timestamp="1600700727293">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="270" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1600700727293" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1600683777682">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
